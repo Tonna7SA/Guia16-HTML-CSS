@@ -1,0 +1,11 @@
+
+body{
+    background-color: bisque;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover {
+    background-color: cyan;
+}
+h2{
+    color: green;
+}

@@ -1,0 +1,29 @@
+body {
+    
+    background: linear-gradient(135deg, blue 23%, yellow 35%, red 70%); 
+
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.primerparrafo {
+    text-align: left;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.segundoparrafo {
+    text-align: left;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: Arial;
+}
+table, tr{
+    width: 80%;
+    height: 30px;
+    border: 2px solid grey;
+    border-collapse: collapse;
+}
+th{
+    background-color: rgb(170, 170, 170);
+    text-align: center;
+}
+#a{
+    text-align: left;
+    background-color: rgb(203, 232, 242);
+}
+#yellow{
+    background-color:lemonchiffon;
+}

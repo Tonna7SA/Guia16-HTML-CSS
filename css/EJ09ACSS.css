@@ -1,0 +1,63 @@
+#titulo {
+    color: darkcyan;
+}
+
+.destacado {
+    color: gold;
+}
+
+strong {
+    color: red;
+}
+
+em {
+    color: blue;
+}
+
+#subtitulo {
+    color: blue;
+}
+
+a {
+    color: red;
+}
+
+.especial {
+    color: blueviolet;
+}
+
+table, td, th {
+    
+    width: 400px;
+    height: 20px;
+    text-align: center;
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+tbody{
+    color: green;
+}
+.especial1{
+    color: goldenrod;
+}
+.especial2{
+    color: red;
+}
+tfoot{
+    color: red;
+}
+#adicional{
+    color: olivedrab;
+}
+#especial3{
+    color:blueviolet;
+}
+#purus{
+    color: goldenrod;
+}
+#donec{
+    color: green;
+}
+em{
+    color: green;
+}
